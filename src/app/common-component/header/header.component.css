@@ -1,0 +1,33 @@
+li {
+    list-style-type: none;
+  }
+  .navbar-brand{
+    color: #8CB7F5;
+  }
+ 
+  .form-control{
+    border-color:#0D6EFD;
+    border-radius: 8px 0px 0px 8px;
+    width: 500px;
+    height: 2.45rem;
+
+  }
+  .btn{
+    border-radius: 0px 8px 8px 0px;
+    height: 2.45rem;
+
+  }
+  .nav-item{
+    border-style: solid none solid none;
+    border-color:#0D6EFD;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  .items{
+    color: #979797;
+  }
+  .item{
+    color: #979797;
+  }
+ 
